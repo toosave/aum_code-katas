@@ -1,4 +1,4 @@
-# Html code-katas
+# HTML code-katas
 1. HTML basics exercises
 2. HTML text exercises
 3. HTML text formatting exercises
